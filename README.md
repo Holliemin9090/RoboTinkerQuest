@@ -2,8 +2,7 @@
 # Robotics Learning Project
 
 ### Images
-- ![Car Image](car.jpg)
-
+<img src="car.jpg" alt="Car Image" width="500" />
 
 ## Description
 This repository showcases various projects and experiments related to robotics, including sensor scanning, voice control movement, and using YOLO on a Raspberry Pi.
