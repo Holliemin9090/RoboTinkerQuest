@@ -4,6 +4,10 @@
 ## Description
 This repository showcases various projects and experiments related to robotics, including sensor scanning, voice control movement, and using YOLO on a Raspberry Pi.
 
+
+https://github.com/Holliemin9090/RoboTinkerQuest/assets/28077988/b77f8bb3-2a47-4013-8d77-68e3de04d37f
+
+
 ## Files
 
 ### Images
