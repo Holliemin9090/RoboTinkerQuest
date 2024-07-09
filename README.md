@@ -14,4 +14,5 @@ This repository showcases various projects and experiments related to robotics, 
 - [Voice Control Movement](voice_control_movement.mp4)
 
 ### GIFs
-- ![YOLO on Raspberry Pi](yolo%20on%20rpi.gif)
+<img src="https://github.com/Holliemin9090/RoboTinkerQuest/blob/main/yolo_on_rpi.gif" width="400" alt="Demo of the feature">
+
