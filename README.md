@@ -16,6 +16,6 @@ https://github.com/Holliemin9090/RoboTinkerQuest/assets/28077988/b77f8bb3-2a47-4
 https://github.com/Holliemin9090/RoboTinkerQuest/assets/28077988/b5df2cdf-4cc0-4712-a6fd-80439bea3e91
 
 
-### GIFs
+### YOLO on RPI
 <img src="https://github.com/Holliemin9090/RoboTinkerQuest/blob/main/yolo_on_rpi.gif" width="800" alt="Demo of the feature">
 
