@@ -1,13 +1,11 @@
 # RoboTinkerQuest
 # Robotics Learning Project
-
+## Description
 This repository documents my efforts and progress in learning and developing projects in the areas of electronics, embedded systems, and robotics. 
 
 ### Images
 <img src="car.jpg" alt="Car Image" width="200" />
 
-## Description
-This repository showcases various projects and experiments related to robotics, including sensor scanning, voice control movement, and using YOLO on a Raspberry Pi.
 
 ### Voice Control Movement
 https://github.com/Holliemin9090/RoboTinkerQuest/assets/28077988/b77f8bb3-2a47-4013-8d77-68e3de04d37f
