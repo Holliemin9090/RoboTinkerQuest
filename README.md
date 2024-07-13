@@ -3,8 +3,11 @@
 ## Description
 This repository documents my efforts and progress in learning and developing projects in the areas of electronics, embedded systems, and robotics. 
 
-### Images
-<img src="car.jpg" alt="Car Image" width="200" />
+### The Raspberry Pi Car
+<div style="display: flex; align-items: center;">
+    <img src="car.jpg" alt="Car Image" width="200" style="margin-right: 20px;"/>
+    <p>This project involves building and programming a Raspberry Pi-powered car. The car is designed to navigate autonomously using sensors and a camera. It incorporates various embedded systems and electronics components, providing a practical and engaging way to learn about robotics and programming.</p>
+</div>
 
 
 ### Voice Control Movement
