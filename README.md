@@ -1,6 +1,8 @@
 # RoboTinkerQuest
 # Robotics Learning Project
 
+This repository documents my efforts and progress in learning and developing projects in the areas of electronics, embedded systems, and robotics. 
+
 ### Images
 <img src="car.jpg" alt="Car Image" width="200" />
 
