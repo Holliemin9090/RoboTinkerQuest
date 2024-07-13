@@ -9,6 +9,21 @@ This repository documents my efforts and progress in learning and developing pro
     <p>This project involves building and programming a Raspberry Pi-powered car. The car is designed to navigate autonomously using sensors and a camera. It incorporates various embedded systems and electronics components, providing a practical and engaging way to learn about robotics and programming.</p>
 </div>
 
+### Parts List for the Raspberry Pi Car
+| Part                  | Description                                         |
+|-----------------------|-----------------------------------------------------|
+| Raspberry Pi          | The main computer board                             |
+| Motor Driver Board    | Controls the motors of the car                      |
+| DC Motors             | Provides movement for the car                       |
+| Wheels                | Attached to the motors for movement                 |
+| Ultrasonic Sensor     | Used for obstacle detection                         |
+| Camera Module         | Captures images and video for navigation            |
+| Battery Pack          | Powers the Raspberry Pi and other components        |
+| Chassis               | The frame of the car that holds all the components  |
+| Jumper Wires          | Connects various components on the Raspberry Pi     |
+| SD Card               | Stores the operating system and software            |
+| Power Supply Module   | Regulates the voltage for the Raspberry Pi          |
+
 
 ### Voice Control Movement
 https://github.com/Holliemin9090/RoboTinkerQuest/assets/28077988/b77f8bb3-2a47-4013-8d77-68e3de04d37f
