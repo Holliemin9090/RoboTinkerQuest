@@ -12,17 +12,17 @@ This repository documents my efforts and progress in learning and developing pro
 ### Parts List for the Raspberry Pi Car
 | Part                  | Description                                         |
 |-----------------------|-----------------------------------------------------|
-| Raspberry Pi          | The main computer board                             |
-| Motor Driver Board    | Controls the motors of the car                      |
-| DC Motors             | Provides movement for the car                       |
-| Wheels                | Attached to the motors for movement                 |
+| Raspberry Pi 4B 8GB         | The main computer board                             |
+| 2 L298N Motor Driver Board    | Controls the motors of the car                      |
+| 4 DC Motors             | Provides movement for the car                       |
+| 4 Wheels                | Attached to the motors for movement                 |
 | Ultrasonic Sensor     | Used for obstacle detection                         |
 | Camera Module         | Captures images and video for navigation            |
-| Battery Pack          | Powers the Raspberry Pi and other components        |
+| 2 LM2596 Voltage Regulator         | Control the voltage supply to other components        |
 | Chassis               | The frame of the car that holds all the components  |
 | Jumper Wires          | Connects various components on the Raspberry Pi     |
 | SD Card               | Stores the operating system and software            |
-| Power Supply Module   | Regulates the voltage for the Raspberry Pi          |
+| Mini Power bank   | 5v power supply       |
 
 
 ### Voice Control Movement
