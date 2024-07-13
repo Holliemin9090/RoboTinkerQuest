@@ -19,6 +19,7 @@ This repository documents my efforts and progress in learning and developing pro
 | Ultrasonic Sensor     | Used for obstacle detection                         |
 | Camera Module         | Captures images and video for navigation            |
 | 2 LM2596 Voltage Regulator         | Control the voltage supply to other components        |
+| 3 mini servos         | servos for camera and ultrasounic sensor rotation |
 | Chassis               | The frame of the car that holds all the components  |
 | Jumper Wires          | Connects various components on the Raspberry Pi     |
 | SD Card               | Stores the operating system and software            |
